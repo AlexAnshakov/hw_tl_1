@@ -151,19 +151,17 @@
 
 .table_title {
   width: 60%;
-}
-
-.table_title,
-.table_subtitle {
-  width: 60%;
   margin: 0 auto;
 }
+
 
 .table_subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   padding-left: 650px;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .table_title {
